@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Words & Thoughts"
+date: 2013-07-28 21:40
+comments: true
+categories: 
+---
+
+Writing is like taking photos of your thoughts so you can remember and relive them later. So someone else can enjoy where you’ve been and what you’ve seen.
