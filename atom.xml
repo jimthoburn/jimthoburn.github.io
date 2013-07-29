@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Jim Thoburn]]></title>
   <link href="http://jimthoburn.github.io/atom.xml" rel="self"/>
   <link href="http://jimthoburn.github.io/"/>
-  <updated>2013-07-28T20:49:40-07:00</updated>
+  <updated>2013-07-28T21:42:54-07:00</updated>
   <id>http://jimthoburn.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Jim Thoburn]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Words & Thoughts]]></title>
+    <link href="http://jimthoburn.github.io/blog/2013/07/28/words/"/>
+    <updated>2013-07-28T21:40:00-07:00</updated>
+    <id>http://jimthoburn.github.io/blog/2013/07/28/words</id>
+    <content type="html"><![CDATA[<p>Writing is like taking photos of your thoughts so you can remember and relive them later. So someone else can enjoy where you’ve been and what you’ve seen.</p>
+]]></content>
+  </entry>
   
 </feed>
